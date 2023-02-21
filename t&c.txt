@@ -1,0 +1,5 @@
+Terms and Conditions:
+  1. First Name Should contain minimum of 4 letters and Last Name must contain minimum of 3 letters.
+  2. Username and Password is auto generated and can be modified by only admin.
+  3. You can only log out by Pressing Exit option in Homepage.
+  4. You cannot quit the application without properly exiting it.
